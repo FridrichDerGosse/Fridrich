@@ -1,0 +1,2 @@
+# Fridrich
+Namespace fridrich package
