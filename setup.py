@@ -23,9 +23,9 @@ here = Path(__file__).parent.resolve()
 long_description = (here / "README.md").read_text(encoding="utf-8")
 
 setup(
-    name="deamons",
+    name="fridex",
     version="1.0.0",
-    description="Fridrich-Deamon default package",
+    description="Fridrich default package",
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="Lukas Krahbichler",
